@@ -1,3 +1,11 @@
+Web application where users can sign in, log in to post, manage recruitment news.
+
+Tech: Laravel framework, basic HTML, CSS and phpmyadmin
+
+Feature: CRUD, search, register, log in, log out, basic authentication.
+
+Reference: Traversy Media - https://youtu.be/MYyJ4PuL4pY
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
